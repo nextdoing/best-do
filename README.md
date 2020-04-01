@@ -1,7 +1,4 @@
-# best-do
-Best Practices。The most concise and uniform code is the most efficient。
+# best-do-skill
+js开发技巧，合理的使用对象，数据结构，隐式转换可以优雅的实现业务逻辑，并提高代码的维护性。
 
-Basic version for enterprise development。
-
-1. [vue Multiple pages](https://github.com/nextdoing/best-do/tree/vue)
-2. [css management](https://github.com/nextdoing/best-do/tree/css) 
+持续学习，持续添加... ...
